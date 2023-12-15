@@ -2,8 +2,14 @@
 * [Guide](guide.md "What the fuck is going on")
 * [CSS](css/main.md)
 ** [Variables](css/variables.md)
+** [Responsive](css/variables.md)
+** [Animations](css/variables.md)
 * [Sass](sass/main.md)
-** [Difference From CSS](sass/test.md)
-** [Variables](sass/variables.md)
+** [Nesting](sass/test.md)
+** [Variables](sass/test.md)
+** [Operators](sass/variables.md)
+** [Partials](sass/variables.md)
+** [Mixins](sass/variables.md)
+** [Responsive](sass/variables.md)
 * Effects
 * Animations
