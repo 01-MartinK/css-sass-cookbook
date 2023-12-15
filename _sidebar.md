@@ -5,11 +5,10 @@
 ** [Responsive](css/variables.md)
 ** [Animations](css/variables.md)
 * [Sass](sass/main.md)
-** [Nesting](sass/test.md)
-** [Variables](sass/test.md)
-** [Operators](sass/variables.md)
-** [Partials](sass/variables.md)
-** [Mixins](sass/variables.md)
-** [Responsive](sass/variables.md)
+** [Nesting](sass/nesting.md)
+** [Variables](sass/variables.md)
+** [Operators](sass/operators.md)
+** [Partials](sass/partials.md)
+** [Mixins](sass/mixins.md)
 * Effects
 * Animations
