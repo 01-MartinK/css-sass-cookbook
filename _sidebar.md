@@ -11,4 +11,5 @@
 ** [Partials](sass/partials.md)
 ** [Mixins](sass/mixins.md)
 * Effects
+** [Fade-in-out](effects/fade-in-out.md)
 * Animations

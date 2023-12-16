@@ -120,7 +120,7 @@ After making the file it will be auto compiled if you are using a framework with
 
 ## React.js
 
-In React you can import the file directly into an react component as a module or file. You don't need to import directly into the file neither you can just keep those files outside in a style category.
+In React you can import the file directly into an react component as a module or file. You don't need to import directly into the file either you can just keep those files outside in a style category.
 
 `npm install -s sass`
 

@@ -1,4 +1,4 @@
-# Headline
+# Purpose of the page
 
 > An awesome project.
 

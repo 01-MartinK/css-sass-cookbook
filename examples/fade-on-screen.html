@@ -1,0 +1,44 @@
+<div>
+    <style>
+        .fade {
+            padding: 1em;
+            width: 8em;
+            text-align: center;
+            border-radius: 8px;
+
+            background-color: gray;
+        }
+
+        .fade-queue {
+            animation-delay: 0.25s;
+            animation-name: fade-in;
+            animation-fill-mode: both;
+            animation-duration: 2s;
+        }
+
+        @keyframes fade-in {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+    </style>
+    <div class="fade">
+        <h2>Test</h2>
+    </div>
+    <script>
+        const element = document.querySelector('.fade');
+        if (checkVisible(element, 100, 1) === true)
+            element.classList.add('fade-queue');
+
+            function checkVisible(elm, threshold, mode) {
+                threshold = threshold || 0;
+                mode = mode || 'visible';
+
+                var rect = elm.getBoundingClientRect();
+                var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+                var above = rect.bottom - threshold < 0;
+                var below = rect.top - viewHeight + threshold >= 0;
+
+                return mode === 'above' ? above : (mode === 'below' ? below : !above && !below);
+            }
+    </script>
+</div>
