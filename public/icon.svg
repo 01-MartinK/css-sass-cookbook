@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76435185"
+     inkscape:cx="298.94609"
+     inkscape:cy="436.31738"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="103.35554"
+       y="348.00727"
+       width="132.1381"
+       height="158.30406"
+       id="rect9918" />
+    <rect
+       x="332.30769"
+       y="506.31133"
+       width="162.22895"
+       height="150.45427"
+       id="rect2900" />
+    <rect
+       x="65.4149"
+       y="83.731072"
+       width="87.655966"
+       height="119.05512"
+       id="rect1508" />
+    <rect
+       x="65.4149"
+       y="83.731072"
+       width="87.655966"
+       height="119.05512"
+       id="rect7846" />
+    <rect
+       x="332.30769"
+       y="506.31133"
+       width="162.22895"
+       height="150.45427"
+       id="rect7852" />
+    <rect
+       x="65.4149"
+       y="83.731072"
+       width="87.655966"
+       height="119.05512"
+       id="rect1252" />
+    <rect
+       x="332.30769"
+       y="506.31133"
+       width="162.22895"
+       height="150.45427"
+       id="rect1294" />
+    <rect
+       x="103.35554"
+       y="348.00727"
+       width="132.1381"
+       height="158.30406"
+       id="rect1354" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(2.164186,0.03300612,0.27891252,2.0022467,-159.01523,-160.05453)"
+       id="text1250"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1252);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="65.414062"
+         y="120.12548"
+         id="tspan1416">Sass</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(2.164186,0.03300612,0.27891252,2.0022467,-153.82292,-163.51607)"
+       id="text7844"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect7846);fill:#d2075f;fill-opacity:1;stroke:none"><tspan
+         x="65.414062"
+         y="120.12548"
+         id="tspan1418">Sass</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.9025449,0.04680194,0.73422864,2.2352645,-964.52802,-1058.3857)"
+       id="text1292"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1294);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00017;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="332.30859"
+         y="542.70555"
+         id="tspan1420">CSS</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.9025449,0.04680194,0.73422864,2.2352645,-958.98956,-1061.8473)"
+       id="text7850"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect7852);fill:#03c7e6;fill-opacity:1;stroke:none;stroke-width:1.00017;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="332.30859"
+         y="542.70555"
+         id="tspan1422">CSS</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.5782458,0,-0.41885517,1.5782458,-1.5487426,-465.2479)"
+       id="text1352"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1354);fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+         x="103.35547"
+         y="384.40282"
+         id="tspan1424">&amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(1.5782458,0,-0.41885517,1.5782458,1.566642,-467.67098)"
+       id="text9916"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9918);fill:#ff9422;fill-opacity:1;stroke:none;stroke-opacity:1"><tspan
+         x="103.35547"
+         y="384.40282"
+         id="tspan1426">&amp;</tspan></text>
+  </g>
+</svg>

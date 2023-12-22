@@ -1,26 +1,5 @@
-# Purpose of the page
+## Reason
 
-> An awesome project.
+I made this page for the reason of me forgetting the core concepts of some main [Sass](Sass/What-is-Sass) or [CSS](CSS/CSS) methods, functions or effects.
 
-test fucking up
-
-## What dafuq
-
-* test
-* test
-
-1. test
-2. test
-
-## CSS
-
-1. Animations
-2. Effects
-
-## Sass
-
-1. Mixins
-2. Transitions
-
-- test
-> test
+> This also includes some references and guides
