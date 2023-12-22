@@ -4,7 +4,7 @@ CSS doesn't allow operators in selectors directly while Sass does.
 
 In Sass you can directly play with operations.
 
-``` scss
+```css
 .container {
 	background-color: red;
 	border-radius: (5px / 2);
@@ -13,7 +13,7 @@ In Sass you can directly play with operations.
 
 ?> An impressive thing in Sass is that it automatically converts between value differences.
 
-``` scss
+```css
 .container {
 	border: (2px / 1em) solid red;
 }
@@ -28,7 +28,7 @@ Sass allows these operational types:
 
 With Sass you can even to color operations. Like adding or mixing colors. To use these coloring operations you need to use the [built-in](Sass/Variables) module named `sass:color`.
 
-```scss
+```css
 @use 'sass:color';
 
 @debug color.adjust(#6b717f, $red: 15); // #7a717f

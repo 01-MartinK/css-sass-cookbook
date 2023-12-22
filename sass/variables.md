@@ -8,7 +8,7 @@ The makers of Sass greatly improved the declaration and usage of variables in sa
 They can now be declared outside of a class and instead inside of the file.
 
 `_variables.scss`
-``` scss
+```css
 $new-variable: red;
 $bg-color: #111eee;
 $borderS: 2px;
@@ -26,7 +26,7 @@ instead of the double `--my-var: red;`.
 
 With the addition of custom variables you can declare whole lines with it.
 
-``` scss
+```css
 $box-shadow: 0 0 8px black;
 
 .container {
@@ -37,7 +37,7 @@ $box-shadow: 0 0 8px black;
 ## Built-in Variables
 
 Sass also has built-in modules for math and other things. To use those built-in modules you use the `@use` as an import statement for the built-in properties.
-``` scss
+```css
 @use "sass:math" as math;
 
 // This assignment will fail.

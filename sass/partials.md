@@ -18,7 +18,7 @@ or module
 
 To use those other files, we import them into the main file or into a JavaScript component file. If it is supported.
 
-``` scss
+```css
 @import '_config';
 @import '_navbar';
 @import '_variables';
