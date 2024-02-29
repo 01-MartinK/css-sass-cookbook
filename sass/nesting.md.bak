@@ -31,25 +31,6 @@ In Sass you can declare a selector inside of a selector henceforth nesting. Whic
 
 ## & operator
 
-With css you have to declare classes and functions separetely with the groups class names separately every time.
-```css
-.btn {
-	padding: 1em;
-	height: 3em;
-}
-
-.btn_wide {
-	padding: 1em 2em;
-}
-
-.btn:hover {
-	cursor: pointer;
-	box-shadow: 0 0 8px black;
-}
-
-
-```
-
 It has some special typing sign-s for better workflow in different situations. You can extend the selector name with the `&` sign. In extending it you can get better naming conventions or provide functionality to selectors more easily.
 
 ```css
